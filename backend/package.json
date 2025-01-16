@@ -7,7 +7,7 @@
   "dependencies": {
     "@prisma/client": "^6.2.1",
     "@prisma/extension-accelerate": "^1.2.1",
-    "@webbedpiyush/medium-common": "^1.0.0",
+    "@webbedpiyush/medium-common": "^1.0.2",
     "hono": "^4.6.15",
     "prisma": "^6.2.1"
   },
